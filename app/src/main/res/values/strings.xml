@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demo Liste</string>
+
+    <string name= "welcome_message">Hello CodeYourApp World! </string>
+    <string name="text_button_activity_main">Hole Daten</string>
+    <string name="sample_author">Johan Wolfgang v. Goethe</string>
+    <string name="sample_quote">Das sicherste Mittel, ein freundschaftliches Verhältnis zu hegen und
+                                zu erhalten, finde ich darin, dass man sich wechselweise mitteile,
+                                was man tut. Denn die Menschen treffen viel mehr zusammen in dem, was
+                                sie tun, als in dem, was sie denken.</string>
+    <string name="menu_actionBar_settings">Einstellungen</string>
+    <string name="action_get_data">Hole Daten</string>
+
+
+
+
+</resources>

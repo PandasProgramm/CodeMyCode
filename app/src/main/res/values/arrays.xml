@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sampe_quotes">
+        <item>Des Menschen größtes Verdienst bleibt wohl, wenn er die Umstände soviel als möglich
+              bestimmt und sich so wenig als möglich von ihnen bestimmen läßt.</item>
+        <item>Glückselig nenne ich den, der, um zu genießen, nicht nötig hat, unrecht zu tun, und um
+              recht zu handeln, nicht nötig hat zu entbehren.</item>
+        <item>Die Menschen verdrießt\'s, daß das Wahre so einfach ist; sie sollten bedenken, daß sie
+              noch Mühe genug haben, es praktisch zu ihrem Nutzen anzuwenden.</item>
+        <item>Wir gelangen nur selten anders als durch Extreme zur Wahrheit – wir müssen den Irrtum
+              – und oft den Unsinn – zuvor erschöpfen, ehe wir uns zu dem schönen Ziele der ruhigen
+              Weisheit hinaufarbeiten.</item>
+        <item>Manchmal sieht unser Schicksal aus wie ein Fruchtbaum im Winter. Wer sollte bei dem
+              traurigen An sehn [sic] desselben wohl denken, daß diese starren Äste, diese zackigen
+              Zweige im nächsten Frühjahr wieder grünen, blühen, sodann Früchte tragen könnten, doch
+              wir hoffen\'s, wir wissen\'s.</item>
+        <item>Fürchte dich nicht vor der Verwirrung außer dir, aber vor der Verwirrung in dir;
+              strebe nach Einheit, aber suche sie nicht in der Einförmigkeit; strebe nach Ruhe, aber
+              durch das Gleichgewicht, nicht durch den Stillstand deiner Tätigkeit.</item>
+        <item>Sage mir, mit wem du umgehst, so sage ich dir, wer du bist; weiß ich, womit du dich
+              beschäftigst, so weiß ich, was aus dir werden kann.</item>
+        <item>Denn eifersüchtig sind des Schicksals Mächte. Voreilig Jauchzen greift in ihre Rechte.
+              Den Samen legen wir in ihre Hände, Ob Glück, ob Unglück aufgeht, lehrt das Ende.</item>
+        <item>Denken Sie immer: daß wir nur eigentlich für uns selbst arbeiten. Kann das jemand in
+              der Folge gefallen oder dienen, so ist es auch gut. Der Zweck des Lebens ist das Leben
+              selbst.</item>
+        <item>Das Leben, so gemein es aussieht, so leicht es sich mit dem Gewöhnlichen, Alltäglichen
+              zu befriedigen scheint, hegt und pflegt doch immer gewisse höhere Forderungen im
+              Stillen fort und sieht sich nach Mitteln um, sie zu befriedigen.</item>
+    </string-array>
+
+    <string-array name="quote_authors">
+        <item>goethe</item>
+        <item>heine</item>
+        <item>herder</item>
+        <item>hoelderlin</item>
+        <item>jean_paul</item>
+        <item>keller</item>
+        <item>nietzsche</item>
+        <item>schiler</item>
+        <item>schoppenhauer</item>
+        <item>unknown</item>
+        <item>wieland</item>
+    </string-array>
+</resources>
